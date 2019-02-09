@@ -2,3 +2,4 @@
 training event 20190209
 blah blah
 These volcanoes include erta ale, ambrym, mount yasure, pinatubo
+additional text from github web
